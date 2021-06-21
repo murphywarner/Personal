@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\csci2041\\labs\\lab01"
+		},
+		{
+			"path": "..\\..\\csci2041\\labs\\test"
+		},
+		{
+			"path": "..\\..\\csci2021\\labs\\lab02"
+		}
+	],
+	"settings": {
+		"ocaml.sandbox": {
+			"kind": "global"
+		}
+	}
+}
